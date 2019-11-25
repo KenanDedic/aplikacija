@@ -1,0 +1,3 @@
+#Aplikacija
+
+Dodajem readme.md
